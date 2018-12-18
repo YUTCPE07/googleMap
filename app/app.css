@@ -1,0 +1,24 @@
+/*--cyan important*/
+/*.prettydropdown > ul {
+    border-color: #7f7f7f;
+    color: red;
+}*/
+
+
+.bg-GREEN {
+	background-color: green;
+}
+.bg-RED {
+	background-color: red;
+}
+.bg-YELLOW {
+	background-color: yellow;
+}
+.bg-WHITE {
+	background-color: white;
+}
+.bg-BLUE {
+	background-color: blue;
+	color:white;
+}
+
